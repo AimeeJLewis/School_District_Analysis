@@ -16,6 +16,16 @@ Below was our adjusted School Summary with the 9th Grade Scores turned into null
 
 
 ### Thomas High School Relative to Other Schools
+Ranking:
+![Original Thomas Ranking](https://user-images.githubusercontent.com/101950175/163840298-bbe91d61-55fe-4de7-89c4-6aec3ab3cb25.png)
+
+![Adjusted Thomas Ranking](https://user-images.githubusercontent.com/101950175/163840337-639a13c9-19e8-48a2-8afa-915349e46c87.png)
+
+Math Scores:
+
+
+Reading Scores:
+
 
 
 ## Summary
