@@ -10,7 +10,7 @@ Below was our adjusted District Summary with all of the Thomas High School's 9th
 Since there was only a total of (461) 9th Graders at Thomas High School out of the 39,170 students in total that were included, when we look at the overview for the entire district, the analysis was minimally affected by removing those 461 students grades.  
 ### School Summary
 Below was our original School Summary with all the Thomas High School grades included.
-![Original Thomas High School](https://user-images.githubusercontent.com/101950175/163838000-5ca68130-304d-4e20-a470-682346783200.png)
+![Original Thonmas High School](https://user-images.githubusercontent.com/101950175/163838851-c9c3f28e-8359-45db-937b-7009bb280d69.png)
 Below was our adjusted School Summary with the 9th Grade Scores turned into null values.
 ![Adjusted Thomas High School](https://user-images.githubusercontent.com/101950175/163837528-35d2ebd7-2884-4956-b8e8-15eac52f45d2.png)
 
