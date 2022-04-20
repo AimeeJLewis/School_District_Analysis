@@ -54,4 +54,4 @@ Adjusted:<br/>
 ![Adjusted School Type](https://user-images.githubusercontent.com/101950175/164274814-68066383-5be6-4e2c-9d0e-7db58b74a0c4.png)<br/>
 
 ## Summary
-In conclusion the overall passing rate for Thomas High School dropped from 
+In conclusion the overall passing rate for Thomas High School dropped from approximately 91% to 65%.  This is where we can see the most impact on turning the 9th grade scores into null values.  The school's math and reading percentages dropped which in turn brought the overall passing rate for the school down.  This adjusted the school overall passing rank from 2nd to 8th out of the 15 schools in the district. However, when looking at all 15 schools collectively, the removal of 461 9th grade scores had a minimal impact on the Scores by School Spending, Scores by School Size, and Scores by School Type which included the entire student body of 15 schools.  
