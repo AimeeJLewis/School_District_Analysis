@@ -29,13 +29,11 @@ Original:<br/>
 Adjusted:<br/>
 ![Adjusted Math Scores](https://user-images.githubusercontent.com/101950175/164274170-b26b968a-335b-46a4-b0f5-9dc29d55aa25.png)<br/>
 
-Thomas Reading Scores:
-
-Original:
-![Original Reading Scores](https://user-images.githubusercontent.com/101950175/164274394-88397b46-2dc9-4a20-b854-2ae6be2ec825.png)
-Adjusted:
-![Adjusted Reading Scores](https://user-images.githubusercontent.com/101950175/164274445-44433941-a60e-4148-94c4-7ab382bee958.png)
-
+**Thomas Reading Scores:**<br/>
+Original:<br/>
+![Original Reading Scores](https://user-images.githubusercontent.com/101950175/164274394-88397b46-2dc9-4a20-b854-2ae6be2ec825.png)<br/>
+Adjusted:<br/>
+![Adjusted Reading Scores](https://user-images.githubusercontent.com/101950175/164274445-44433941-a60e-4148-94c4-7ab382bee958.png)<br/>
 
 **Scores by School Spending**<br/>
 Original:<br/>
@@ -43,23 +41,17 @@ Original:<br/>
 Adjusted:<br/>
 ![Adjusted Spending Ranges](https://user-images.githubusercontent.com/101950175/164274585-fbe4d2d2-7a33-4f1f-a735-292f21be984f.png)<br/>
 
+**Scores by School Size**<br/>
+Original:<br/>
+![Original School Size](https://user-images.githubusercontent.com/101950175/164274641-ffd3ff27-65da-4582-b399-195dadaf5269.png)<br/>
+Adjusted:<br/>
+![Adjusted School Size](https://user-images.githubusercontent.com/101950175/164274728-0b8d17af-2b6c-40bf-8ace-989530abc2e5.png)<br/>
 
-Scores by School Size
-
-Original:
-![Original School Size](https://user-images.githubusercontent.com/101950175/164274641-ffd3ff27-65da-4582-b399-195dadaf5269.png)
-Adjusted:
-![Adjusted School Size](https://user-images.githubusercontent.com/101950175/164274728-0b8d17af-2b6c-40bf-8ace-989530abc2e5.png)
-
-
-**Scores by School Type**
-Original:
-![Original School Type](https://user-images.githubusercontent.com/101950175/164274782-56c02aff-6cce-42a6-831a-52028cbfafd8.png)
-Adjusted:
-![Adjusted School Type](https://user-images.githubusercontent.com/101950175/164274814-68066383-5be6-4e2c-9d0e-7db58b74a0c4.png)
-
-
-
+**Scores by School Type**<br/>
+Original:<br/>
+![Original School Type](https://user-images.githubusercontent.com/101950175/164274782-56c02aff-6cce-42a6-831a-52028cbfafd8.png)<br/>
+Adjusted:<br/>
+![Adjusted School Type](https://user-images.githubusercontent.com/101950175/164274814-68066383-5be6-4e2c-9d0e-7db58b74a0c4.png)<br/>
 
 ## Summary
 In conclusion the overall passing rate for Thomas High School dropped from 
