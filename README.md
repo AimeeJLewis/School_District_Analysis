@@ -26,7 +26,7 @@ Thomas High School when the 9th grade scores were included was ranked 2nd out of
 Thomas Math Scores:
 
 Original:
-![Original Math Scores](https://user-images.githubusercontent.com/101950175/164274116-6a9e80a0-6830-4c42-8abe-b138b3d51397.png
+![Original Math Scores](https://user-images.githubusercontent.com/101950175/164274116-6a9e80a0-6830-4c42-8abe-b138b3d51397.png)
 Adjusted:
 ![Adjusted Math Scores](https://user-images.githubusercontent.com/101950175/164274170-b26b968a-335b-46a4-b0f5-9dc29d55aa25.png)
 
@@ -38,12 +38,11 @@ Adjusted:
 ![Adjusted Reading Scores](https://user-images.githubusercontent.com/101950175/164274445-44433941-a60e-4148-94c4-7ab382bee958.png)
 
 
-Scores by School Spending
-
-Original:
-![Original Spending Ranges](https://user-images.githubusercontent.com/101950175/164274549-edfae795-a0d1-488e-83cf-b9c99de7eebc.png)
-Adjusted:
-![Adjusted Spending Ranges](https://user-images.githubusercontent.com/101950175/164274585-fbe4d2d2-7a33-4f1f-a735-292f21be984f.png)
+**Scores by School Spending**<br/>
+Original:<br/>
+![Original Spending Ranges](https://user-images.githubusercontent.com/101950175/164274549-edfae795-a0d1-488e-83cf-b9c99de7eebc.png)<br/>
+Adjusted:<br/>
+![Adjusted Spending Ranges](https://user-images.githubusercontent.com/101950175/164274585-fbe4d2d2-7a33-4f1f-a735-292f21be984f.png)<br/>
 
 
 Scores by School Size
