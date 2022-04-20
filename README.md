@@ -23,12 +23,11 @@ Below was Thomas High School's Adjusted Ranking compared to other schools.
 Thomas High School when the 9th grade scores were included was ranked 2nd out of the 15 schools based on overall performance. With the 9th grade scores turned into null values, it dropped Thomas's ranking down to 8th based on overall performance.
 
 
-Thomas Math Scores:
-
-Original:
-![Original Math Scores](https://user-images.githubusercontent.com/101950175/164274116-6a9e80a0-6830-4c42-8abe-b138b3d51397.png)
-Adjusted:
-![Adjusted Math Scores](https://user-images.githubusercontent.com/101950175/164274170-b26b968a-335b-46a4-b0f5-9dc29d55aa25.png)
+**Thomas Math Scores:**<br/>
+Original:<br/>
+![Original Math Scores](https://user-images.githubusercontent.com/101950175/164274116-6a9e80a0-6830-4c42-8abe-b138b3d51397.png)<br/>
+Adjusted:<br/>
+![Adjusted Math Scores](https://user-images.githubusercontent.com/101950175/164274170-b26b968a-335b-46a4-b0f5-9dc29d55aa25.png)<br/>
 
 Thomas Reading Scores:
 
