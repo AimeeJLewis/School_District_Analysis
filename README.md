@@ -24,12 +24,14 @@ Thomas High School when the 9th grade scores were included was ranked 2nd out of
 
 
 **Thomas Math Scores:**
+
 Original:
 ![Original Math Scores](https://user-images.githubusercontent.com/101950175/164274116-6a9e80a0-6830-4c42-8abe-b138b3d51397.png
 Adjusted:
 ![Adjusted Math Scores](https://user-images.githubusercontent.com/101950175/164274170-b26b968a-335b-46a4-b0f5-9dc29d55aa25.png)
 
 **Thomas Reading Scores:**
+
 Original:
 ![Original Reading Scores](https://user-images.githubusercontent.com/101950175/164274394-88397b46-2dc9-4a20-b854-2ae6be2ec825.png)
 Adjusted:
@@ -37,6 +39,7 @@ Adjusted:
 
 
 **Scores by School Spending**
+
 Original:
 ![Original Spending Ranges](https://user-images.githubusercontent.com/101950175/164274549-edfae795-a0d1-488e-83cf-b9c99de7eebc.png)
 Adjusted:
@@ -44,6 +47,7 @@ Adjusted:
 
 
 **Scores by School Size**
+
 Original:
 ![Original School Size](https://user-images.githubusercontent.com/101950175/164274641-ffd3ff27-65da-4582-b399-195dadaf5269.png)
 Adjusted:
